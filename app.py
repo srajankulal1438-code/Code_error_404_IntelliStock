@@ -33,6 +33,7 @@ div.stButton > button {
 st.set_page_config(page_title="IntelliStock", layout="wide")
 
 st.title("📦 IntelliStock – Smart Inventory Decision System")
+st.subheader("📊 AI-Powered Inventory Insights Dashboard")
 
 # Load data
 data = pd.read_csv("data.csv")
