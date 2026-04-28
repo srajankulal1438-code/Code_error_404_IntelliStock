@@ -18,3 +18,7 @@ An AI-powered system that predicts demand, analyzes risk, and provides smart inv
 ## ▶️ How to Run
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Screenshots
+
+![Dashboard](dashboard.png)
