@@ -30,3 +30,8 @@
 - Improved dashboard UI with better headings
 - Added clearer visualization for decision-making
 - Enhanced user interface for better readability
+
+## Checkpoint 3 Update
+- Added insight section for better explanation of decisions
+- Improved dashboard clarity and user understanding
+- Enhanced UI to make decision output more interpretable

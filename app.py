@@ -67,6 +67,10 @@ if page == "Dashboard":
     col2.metric("Current Stock", stock)
     col3.metric("Risk Level", risk)
 
+    # ✅ ADDED FEATURE
+    st.subheader("📌 Insight")
+    st.write("The system analyzes demand and stock levels to provide actionable inventory decisions.")
+
     st.subheader("📦 Decision")
     st.info(decision)
 
